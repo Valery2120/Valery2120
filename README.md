@@ -1,5 +1,5 @@
 <h1 align="center">👋 Привет! Я — Валерий</h1>
-<h3 align="center">Data Scientist / Data Engineer | 1+ год опыта</h3>
+<h3 align="center">Data Scientist / Data Engineer / BI Analyst | 1+ год опыта</h3>
 
 <p align="center">
   <a href="https://t.me/V_a_l_e_r_y_19"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
