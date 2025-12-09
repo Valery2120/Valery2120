@@ -96,7 +96,7 @@
       <h3 align="center">🏠 Учёт недвижимости + веб-приложение</h3>
       <p>Создание базы данных и Flask-приложения для учёта недвижимости: CRUD-операции, интеграция с БД, визуализация данных.</p>
       <p align="center">
-        <a href="https://github.com/Valery2120"><img src="https://img.shields.io/badge/Перейти к проекту-000000?style=for-the-badge"></a>
+        <a href="https://github.com/Valery2120/property-management-app"><img src="https://img.shields.io/badge/Перейти к проекту-000000?style=for-the-badge"></a>
       </p>
     </td>
     <td width="50%">
