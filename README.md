@@ -1,4 +1,4 @@
-<h1 align="center">👋 Привет! Я — Валерия</h1>
+<h1 align="center">👋 Привет! Я — Валерий</h1>
 <h3 align="center">Data Scientist / Data Engineer | 1+ год опыта</h3>
 
 <p align="center">
