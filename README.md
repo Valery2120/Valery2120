@@ -103,7 +103,7 @@
       <h3 align="center">📊 Анализ рынка недвижимости</h3>
       <p>Парсинг, очистка, EDA, визуализация и анализ факторов, влияющих на стоимость объектов.</p>
       <p align="center">
-        <a href="jupyter/ds/theme_04/theme_04.ipynb"><img src="https://img.shields.io/badge/Смотреть проект-000000?style=for-the-badge"></a>
+        <a href="https://github.com/Valery2120/DS-DE/blob/main/jupyter/ds/theme_04/theme_04.ipynb"><img src="https://img.shields.io/badge/Смотреть проект-000000?style=for-the-badge"></a>
       </p>
     </td>
   </tr>
@@ -120,7 +120,7 @@
       <h3 align="center">📈 Аналитика тарифа телеком-компании</h3>
       <p>Статистический анализ поведения клиентов, определение перспективного тарифа.</p>
       <p align="center">
-        <a href="https://github.com/Valery2120"><img src="https://img.shields.io/badge/Перейти-000000?style=for-the-badge"></a>
+        <a href="https://github.com/Valery2120/DS-DE/blob/main/jupyter/ds/theme_05/theme_05.ipynb"><img src="https://img.shields.io/badge/Перейти-000000?style=for-the-badge"></a>
       </p>
     </td>
   </tr>
