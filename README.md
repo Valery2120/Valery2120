@@ -113,7 +113,7 @@
       <h3 align="center">🌦 Пайплайн метеоданных</h3>
       <p>ETL-пайплайн: извлечение данных о погоде, обработка, очистка, интеграция в БД.</p>
       <p align="center">
-        <a href="https://github.com/Valery2120"><img src="https://img.shields.io/badge/Открыть проект-000000?style=for-the-badge"></a>
+        <a href="https://github.com/Valery2120/airflow-weather-etl"><img src="https://img.shields.io/badge/Открыть проект-000000?style=for-the-badge"></a>
       </p>
     </td>
     <td width="50%">
